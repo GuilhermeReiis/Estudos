@@ -1,0 +1,2 @@
+// FIXME Uma função em javaScript so retornara algo se for finalizao com RETURN, caso contrario
+    retornara NULL
